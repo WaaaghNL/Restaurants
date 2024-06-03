@@ -1,4 +1,4 @@
-Naast een lijst van goede restaurantjes heb ik natuurlijk ook nog een ToDo lijst met aanraders van derden. [https://eetlocatie.waaagh.nl/ Laat de dino je helpen om een keuze te maken!]
+Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kiezen? [https://eetlocatie.waaagh.nl/ Laat de dino je helpen om een keuze te maken!]
  
 ==Nederland==
 ===Alphen===
