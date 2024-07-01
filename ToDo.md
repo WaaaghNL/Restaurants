@@ -1,6 +1,7 @@
 Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kiezen? [https://eetlocatie.waaagh.nl/ Laat de dino je helpen om een keuze te maken!]
  
 ==Nederland==
+
 ===Alphen===
 * http://www.bungamelati.nl/
 
@@ -103,6 +104,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * http://www.mai-thai.nl/
 * https://www.swaen.nl/
 * https://www.seasons-oisterwijk.nl/
+
+=== Roermond ===
+* https://www.libabite.nl/
 
 ===Tilburg===
 * https://www.jasminethaitilburg.nl/
