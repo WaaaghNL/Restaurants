@@ -1,18 +1,18 @@
-Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kiezen? [https://eetlocatie.waaagh.nl/ Laat de dino je helpen om een keuze te maken!]
+Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kiezen? [Laat de dino je helpen om een keuze te maken!](https://eetlocatie.waaagh.nl/)
  
-==Nederland==
+# Nederland
 
-===Alphen===
+## Alphen
 * http://www.bungamelati.nl/
 
-===Breda===
+## Breda
 * https://thestreetfoodclub.nl/
 * https://wereldrestaurantbreepark.nl/
 
-===Boxtel===
+## Boxtel
 * https://www.kin-khao.nl/
 
-===Den Bosch===
+## Den Bosch
 * https://www.ffswanjee.nl/
 * https://www.roels.nu/
 * https://www.bistrotantepietje.nl/
@@ -21,7 +21,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.wijnbijstijn.nl/
 * https://www.barzza.nl/
 
-===Eindhoven===
+## Eindhoven
 * https://www.sojubar.com/eindhoven/menu/
 * https://nicosmexicanfood.nl/
 * https://www.kingthai.nl/
@@ -74,30 +74,30 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.ophetekolen.restaurant/
 * https://www.deluytervelde.nl/
 
-===Geldrop===
+## Geldrop
 * http://www.steakhousebuenos.nl/
 
-===Hapert===
+## Hapert
 * https://www.divino-hapert.nl/
 
-===Heeze===
+## Heeze
 * https://www.thuysheeze.nl/
 
-===Huizen (Noord Holland)===
+## Huizen (Noord Holland)
 * https://www.restaurantlamaison.nl/
-===Meijel===
+## Meijel
 * https://restaurantnakal.nl/
 
-===Nuenen===
+## Nuenen
 * https://www.slinders.nl/
 * https://www.goestingnuenen.nl
 * https://www.bravoy.nl/
 * https://www.comigo.nl/
 
-===Oirschot===
+## Oirschot
 * https://www.sntzl.nl/de-zwaan/
 
-===Oisterwijk===
+## Oisterwijk
 * https://www.brasserieomejan.nl/
 * https://www.cafekoosje.nl/
 * https://www.detijdoisterwijk.nl/
@@ -105,16 +105,16 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.swaen.nl/
 * https://www.seasons-oisterwijk.nl/
 
-=== Roermond ===
+## Roermond
 * https://www.libabite.nl/
 
-===Tilburg===
+## Tilburg
 * https://www.jasminethaitilburg.nl/
 * https://www.anvers.nl/
 * https://www.deburgerij.nl/
 * https://www.stadscafedespaarbank.nl/
 
-===Veldhoven===
+## Veldhoven
 * https://www.brasserieludiek.nl/
 * https://www.brandveldhoven.nl/
 * https://www.burgemister.nl/
@@ -122,22 +122,22 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.dejavu-veldhoven.nl/
 * https://quisine.nl/
 * https://www.restaurantreverie.nl/
-=== Vessem ===
+## Vessem
 * https://www.moutenhout.nl/
 
-===Vorstenbosch===
+## Vorstenbosch
 * https://bbqrestaurantsmook.nl/
 
-==Meerdere vestigingen==
+# Meerdere vestigingen
 * https://www.sarban.nl/
 * https://www.silkroad.nl/
 * https://www.sntzl.nl/
 * https://www.trestapasbar.nl/
 
-== Belgie ==
-=== Arendonk ===
+# Belgie
+## Arendonk
 * https://www.steppegras.com/
 
-=== Lommel ===
+## Lommel
 * https://www.cantina-mex.be/
 * https://www.descheppe.be/
