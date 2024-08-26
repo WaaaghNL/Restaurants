@@ -113,6 +113,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.anvers.nl/
 * https://www.deburgerij.nl/
 * https://www.stadscafedespaarbank.nl/
+* https://www.korenbloemtilburg.nl/
 
 ## Veldhoven
 * https://www.brasserieludiek.nl/
