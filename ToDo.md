@@ -108,6 +108,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Roermond
 * https://www.libabite.nl/
 
+## Rotterdam
+* https://blacksmoke.nl/
+
 ## Tilburg
 * https://www.jasminethaitilburg.nl/
 * https://www.anvers.nl/
