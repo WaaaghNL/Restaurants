@@ -96,6 +96,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Oirschot
 * https://www.sntzl.nl/de-zwaan/
+* https://de-burgemeester.nl/
 
 ## Oisterwijk
 * https://www.brasserieomejan.nl/
