@@ -5,6 +5,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Alphen
 * http://www.bungamelati.nl/
 
+## Baarlo
+* https://maes21.nl/
+
 ## Breda
 * https://thestreetfoodclub.nl/
 * https://wereldrestaurantbreepark.nl/
@@ -16,7 +19,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.ffswanjee.nl/
 * https://www.roels.nu/
 * https://www.bistrotantepietje.nl/
-* https://www.hetwarenhuisdenbosch.nl/
 * https://secretbar.nl/
 * https://www.wijnbijstijn.nl/
 * https://www.barzza.nl/
@@ -32,12 +34,10 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.bocagrande.nl/
 * https://www.k-town.nl/
 * https://www.deslak.com/eindhoven/
-* https://www.touchofindia.eu/
 * https://www.takumi-eindhoven.nl/
 * https://www.dijk9.nl/
 * https://www.sopranos-eindhoven.nl/
-* https://www.veganheroes.nl/menu/
-* https://www.kazerne.com/eat-drink/bar-bistro-kazerne/
+* https://www.veganheroes.nl/
 * https://www.zarzo.nl/
 * http://www.veera.nl/
 * https://www.djawa.eu/
@@ -56,7 +56,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://kingthai.nl/
 * http://www.patioandaluz.nl/
 * http://www.ethiopisch-restaurant.nl/restaurant/over-ons
-* https://www.gauchosgrill.nl/eindhoven/
 * https://www.etenshoven.nl/
 * https://www.sakana.nl/sakana-eindhoven/
 * https://www.restaurantwelp.nl/menu/
@@ -85,6 +84,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Huizen (Noord Holland)
 * https://www.restaurantlamaison.nl/
+
 ## Meijel
 * https://restaurantnakal.nl/
 
@@ -93,6 +93,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.goestingnuenen.nl
 * https://www.bravoy.nl/
 * https://www.comigo.nl/
+* https://degriekinnuenen.nl
 
 ## Oirschot
 * https://www.sntzl.nl/de-zwaan/
@@ -105,6 +106,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * http://www.mai-thai.nl/
 * https://www.swaen.nl/
 * https://www.seasons-oisterwijk.nl/
+
+## Panningen
+* http://trattoria-valentino.nl/
 
 ## Roermond
 * https://www.libabite.nl/
@@ -127,6 +131,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.dejavu-veldhoven.nl/
 * https://quisine.nl/
 * https://www.restaurantreverie.nl/
+
 ## Vessem
 * https://www.moutenhout.nl/
 
