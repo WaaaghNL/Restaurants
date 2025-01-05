@@ -82,11 +82,17 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Heeze
 * https://www.thuysheeze.nl/
 
+## Helden
+* https://www.fusionhelden.nl/
+
 ## Huizen (Noord Holland)
 * https://www.restaurantlamaison.nl/
 
 ## Meijel
 * https://restaurantnakal.nl/
+
+## Nederweert
+* https://www.restaurantdiverso.nl/
 
 ## Nuenen
 * https://www.slinders.nl/
