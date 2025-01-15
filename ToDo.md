@@ -129,7 +129,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.korenbloemtilburg.nl/
 
 ## Veldhoven
-* https://www.brasserieludiek.nl/
 * https://www.brandveldhoven.nl/
 * https://www.burgemister.nl/
 * https://www.cafesainttropez.nl/
