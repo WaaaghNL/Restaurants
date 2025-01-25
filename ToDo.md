@@ -108,7 +108,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.brasserieomejan.nl/
 * https://www.cafekoosje.nl/
 * https://www.detijdoisterwijk.nl/
-* http://www.mai-thai.nl/
 * https://www.swaen.nl/
 * https://www.seasons-oisterwijk.nl/
 
@@ -135,6 +134,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.dejavu-veldhoven.nl/
 * https://quisine.nl/
 * https://www.restaurantreverie.nl/
+
+## Venlo
+* https://www.restaurant-boca.nl/
 
 ## Vessem
 * https://www.moutenhout.nl/
