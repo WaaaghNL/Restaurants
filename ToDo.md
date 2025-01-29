@@ -116,6 +116,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Roermond
 * https://www.libabite.nl/
+* https://www.laboca-roermond.nl/
 
 ## Rotterdam
 * https://blacksmoke.nl/
@@ -137,6 +138,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Venlo
 * https://www.restaurant-boca.nl/
+* https://www.tantetoer.nl/
 
 ## Vessem
 * https://www.moutenhout.nl/
