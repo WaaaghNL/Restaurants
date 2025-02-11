@@ -2,6 +2,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
  
 # Nederland
 
+## Aarle-Rixtel
+* https://chaletcouvert.nl/
+
 ## Alphen
 * http://www.bungamelati.nl/
 
