@@ -29,7 +29,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.sojubar.com/eindhoven/menu/
 * https://nicosmexicanfood.nl/
 * https://www.kingthai.nl/
-* https://www.neworientaleindhoven.nl/
+* https://www.casapepe.nl/
 * https://www.gezana-eindhoven.com/
 * https://www.umami-restaurant.com/eindhoven/
 * https://www.xunoodlebar.com/
