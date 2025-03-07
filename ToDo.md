@@ -36,6 +36,10 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.deslak.com/eindhoven/
 * https://www.dijk9.nl/
 * https://www.djawa.eu/
+* https://www.doyy.nl/
+* https://www.pippens.nl/
+* https://www.elpuente.nl/
+* https://www.restaurantgiornale.nl/
 * https://www.elpastoreindhoven.nl/
 * https://www.ethiopisch-restaurant.nl/
 * https://www.gezana-eindhoven.com/
