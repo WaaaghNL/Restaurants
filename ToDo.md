@@ -9,11 +9,11 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * http://www.bungamelati.nl/
 
 ## Baarlo
-* https://maes21.nl/
+* https://www.maes21.nl/
 
 ## Breda
-* https://thestreetfoodclub.nl/
-* https://wereldrestaurantbreepark.nl/
+* https://www.thestreetfoodclub.nl/
+* https://www.wereldrestaurantbreepark.nl/
 
 ## Boxtel
 * https://www.kin-khao.nl/
@@ -26,54 +26,51 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.barzza.nl/
 
 ## Eindhoven
-* https://www.sojubar.com/eindhoven/menu/
-* https://nicosmexicanfood.nl/
-* https://www.kingthai.nl/
-* https://www.casapepe.nl/
-* https://www.gezana-eindhoven.com/
-* https://www.umami-restaurant.com/eindhoven/
-* https://www.xunoodlebar.com/
-* https://www.bocagrande.nl/
-* https://www.k-town.nl/
-* https://www.deslak.com/eindhoven/
-* https://www.takumi-eindhoven.nl/
-* https://www.dijk9.nl/
-* https://www.sopranos-eindhoven.nl/
-* https://www.veganheroes.nl/
-* https://www.zarzo.nl/
-* http://www.veera.nl/
-* https://www.djawa.eu/
-* https://www.natlab.nl/nl/pQwp1iQ/eten-drinken/eten---drinken
-* https://www.takumiramennoodles.com/nl/eindhoven-kerkstraat/
-* https://www.rozenknopje.nl/
-* https://www.sriganesh.nl/
-* https://www.elpastoreindhoven.nl/
-* https://www.tapasvoorthuis.nl/
-* https://www.xunoodlebar.com/
-* https://samurai-ramen.nl/
-* https://www.vane-eindhoven.nl/
-* https://www.bistrosophie.nl/
-* https://www.restaurantyokohama.nl/
-* https://www.qpasa.nl/
-* https://kingthai.nl/
 * http://www.patioandaluz.nl/
-* http://www.ethiopisch-restaurant.nl/restaurant/over-ons
-* https://www.etenshoven.nl/
-* https://www.sakana.nl/sakana-eindhoven/
-* https://www.restaurantwelp.nl/menu/
-* https://www.loods61.nl/onze-dinerkaart.html
-* https://www.restaurantthecity.nl/
-* https://www.hungying.nl/
-* https://www.ethiopisch-restaurant.nl/
+* https://www.bistrosophie.nl/
 * https://www.blok63-s.nl/
-* https://www.misstemaki.nl/
-* https://www.ketelhuis.com/
-* https://www.radioroyaal.be/
-* https://www.deoudetelefooncentrale.nl/
-* https://www.stadspaviljoen.nl
-* https://www.thym.nl/
-* https://www.ophetekolen.restaurant/
+* https://www.bocagrande.nl/
+* https://www.casapepe.nl/
 * https://www.deluytervelde.nl/
+* https://www.deoudetelefooncentrale.nl/
+* https://www.deslak.com/eindhoven/
+* https://www.dijk9.nl/
+* https://www.djawa.eu/
+* https://www.elpastoreindhoven.nl/
+* https://www.etenshoven.nl/
+* https://www.ethiopisch-restaurant.nl/
+* https://www.gezana-eindhoven.com/
+* https://www.hungying.nl/
+* https://www.k-town.nl/
+* https://www.ketelhuis.com/
+* https://www.kingthai.nl/
+* https://www.kingthai.nl/
+* https://www.loods61.nl/onze-dinerkaart.html
+* https://www.misstemaki.nl/
+* https://www.natlab.nl/nl/pQwp1iQ/eten-drinken/eten---drinken
+* https://www.nicosmexicanfood.nl/
+* https://www.ophetekolen.restaurant/
+* https://www.qpasa.nl/
+* https://www.radioroyaal.be/
+* https://www.restaurantthecity.nl/
+* https://www.restaurantwelp.nl/menu/
+* https://www.restaurantyokohama.nl/
+* https://www.rozenknopje.nl/
+* https://www.sakana.nl/sakana-eindhoven/
+* https://www.samurai-ramen.nl/
+* https://www.sojubar.com/eindhoven/menu/
+* https://www.sopranos-eindhoven.nl/
+* https://www.sriganesh.nl/
+* https://www.stadspaviljoen.nl
+* https://www.takumiramennoodles.com/nl/eindhoven-kerkstraat/
+* https://www.tapasvoorthuis.nl/
+* https://www.thym.nl/
+* https://www.umami-restaurant.com/eindhoven/
+* https://www.vane-eindhoven.nl/
+* https://www.veera.nl/
+* https://www.veganheroes.nl/
+* https://www.xunoodlebar.com/
+* https://www.zarzo.nl/
 
 ## Geldrop
 * http://www.steakhousebuenos.nl/
@@ -105,7 +102,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Oirschot
 * https://www.sntzl.nl/de-zwaan/
-* https://de-burgemeester.nl/
+* https://www.de-burgemeester.nl/
 
 ## Oisterwijk
 * https://www.brasserieomejan.nl/
@@ -115,7 +112,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.seasons-oisterwijk.nl/
 
 ## Panningen
-* http://trattoria-valentino.nl/
+* http://www.trattoria-valentino.nl/
 
 ## Roermond
 * https://www.libabite.nl/
