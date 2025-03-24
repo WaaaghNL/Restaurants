@@ -11,6 +11,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Baarlo
 * https://www.maes21.nl/
 
+## Bergijk
+* https://streekrestaurant.nl/
+
 ## Breda
 * https://www.thestreetfoodclub.nl/
 * https://www.wereldrestaurantbreepark.nl/
@@ -25,19 +28,37 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://secretbar.nl/
 * https://www.barzza.nl/
 
+## Deurne
+* https://www.ophetekolen.restaurant/
+
 ## Eindhoven
 * http://www.patioandaluz.nl/
+* https://www.thaibyjune.nl/
+* https://www.hangchow.nl/
 * https://www.bistrosophie.nl/
+* https://www.arigatoasianclub.nl/
 * https://www.blok63-s.nl/
+* https://streetfoodbyhan.com/eindhoven/
+* https://www.gusto-040.nl/
 * https://www.bocagrande.nl/
 * https://www.casapepe.nl/
+* https://www.doyy.nl/
+* https://www.casapepe.nl/menu
+* https://umami-restaurant.com/eindhoven/
 * https://www.deluytervelde.nl/
+* https://www.ethiopisch-restaurant.nl/
 * https://www.deoudetelefooncentrale.nl/
 * https://www.deslak.com/eindhoven/
 * https://www.dijk9.nl/
+* https://ma-nee-tastybytes-eindhoven.nl/
+* https://sushiharu.nl/
+* https://www.sushi2go.nl/
+* https://www.1910.nl/
+* https://www.restaurantgiornale.nl/
 * https://www.djawa.eu/
 * https://www.doyy.nl/
 * https://www.pippens.nl/
+* https://elpuente.nl/
 * https://www.elpuente.nl/
 * https://www.restaurantgiornale.nl/
 * https://www.elpastoreindhoven.nl/
@@ -72,6 +93,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.veganheroes.nl/
 * https://www.xunoodlebar.com/
 * https://www.zarzo.nl/
+* https://www.flavorandspice.nl/
 
 ## Geldrop
 * http://www.steakhousebuenos.nl/
@@ -129,6 +151,10 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.stadscafedespaarbank.nl/
 * https://www.korenbloemtilburg.nl/
 
+## Valkenswaard
+* https://www.pekingosaka.nl/
+* https://www.saporsmaakpaviljoen.nl/
+
 ## Veldhoven
 * https://www.brandveldhoven.nl/
 * https://www.burgemister.nl/
@@ -136,6 +162,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.dejavu-veldhoven.nl/
 * https://quisine.nl/
 * https://www.restaurantreverie.nl/
+* https://www.smokeyblinders.nl/
 
 ## Venlo
 * https://www.restaurant-boca.nl/
@@ -147,11 +174,20 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Vorstenbosch
 * https://bbqrestaurantsmook.nl/
 
+## Waalre
+* https://oudetoren.nl/
+* https://restaurant-eden.nl/
+* https://leemerhoef.nl/
+
+## Westerhoven
+* https://bijdeneut.nl/
+
 # Meerdere vestigingen
 * https://www.sarban.nl/
 * https://www.silkroad.nl/
 * https://www.sntzl.nl/
 * https://www.trestapasbar.nl/
+* https://suykerbuyck.nl/
 
 # Belgie
 ## Arendonk
@@ -160,3 +196,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Lommel
 * https://www.cantina-mex.be/
 * https://www.descheppe.be/
+* https://khao.be/
+
+## Neerpelt
+* https://www.ristorantelabaita.be/
