@@ -21,6 +21,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Boxtel
 * https://www.kin-khao.nl/
 
+## Casteren
+* https://www.kruidenlucht.nl/
+
 ## Den Bosch
 * https://www.ffswanjee.nl/
 * https://www.roels.nu/
