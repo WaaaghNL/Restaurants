@@ -21,9 +21,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Boxtel
 * https://www.kin-khao.nl/
 
-## Casteren
-* https://www.kruidenlucht.nl/
-
 ## Den Bosch
 * https://www.ffswanjee.nl/
 * https://www.roels.nu/
@@ -170,6 +167,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Venlo
 * https://www.restaurant-boca.nl/
 * https://www.tantetoer.nl/
+
+## Venray
+* https://www.edaspecialiteiten.nl/over-ons/
 
 ## Vessem
 * https://www.moutenhout.nl/
