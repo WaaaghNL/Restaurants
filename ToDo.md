@@ -94,9 +94,11 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.xunoodlebar.com/
 * https://www.zarzo.nl/
 * https://www.flavorandspice.nl/
+* https://www.matsu.nl/
 
 ## Geldrop
 * http://www.steakhousebuenos.nl/
+* https://dezwaan-geldrop.nl/
 
 ## Hapert
 * https://www.divino-hapert.nl/
@@ -150,6 +152,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.deburgerij.nl/
 * https://www.stadscafedespaarbank.nl/
 * https://www.korenbloemtilburg.nl/
+
+## Uden
+* https://stoked.nu/
 
 ## Valkenswaard
 * https://www.pekingosaka.nl/
