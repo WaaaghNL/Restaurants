@@ -30,6 +30,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Deurne
 * https://www.ophetekolen.restaurant/
+* https://www.restaurantclouds.nl/
 
 ## Eindhoven
 * http://www.patioandaluz.nl/
@@ -102,6 +103,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Hapert
 * https://www.divino-hapert.nl/
+
+## Heeswijk Dinter
+https://restaurantpit.nl/
 
 ## Heeze
 * https://www.thuysheeze.nl/
