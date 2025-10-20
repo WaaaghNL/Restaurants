@@ -1,7 +1,6 @@
-Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kiezen? [Laat de dino je helpen om een keuze te maken!](https://eetlocatie.waaagh.nl/)
+Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kiezen? [Laat de dino je helpen om een keuze te maken!](https://eetlocatie.waaagh.nl/todo.php)
  
 # Nederland
-
 ## Aarle-Rixtel
 * https://chaletcouvert.nl/
 
