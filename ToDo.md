@@ -105,7 +105,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.divino-hapert.nl/
 
 ## Heeswijk Dinter
-https://restaurantpit.nl/
+* https://restaurantpit.nl/
 
 ## Heeze
 * https://www.thuysheeze.nl/
