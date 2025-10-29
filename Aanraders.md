@@ -10,6 +10,7 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 ## Eindhoven
 * https://www.doyy.nl/
 * https://www.k-town.nl/
+* https://hotandhot.eu/
 * https://www.veera.nl/
 * https://www.fifthnre.com/restaurant/
 
