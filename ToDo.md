@@ -60,6 +60,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.pippens.nl/
 * https://elpuente.nl/
 * https://www.elpuente.nl/
+* https://asmara-eindhoven.nl/
 * https://www.restaurantgiornale.nl/
 * https://www.elpastoreindhoven.nl/
 * https://www.ethiopisch-restaurant.nl/
