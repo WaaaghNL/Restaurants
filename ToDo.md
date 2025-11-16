@@ -140,6 +140,9 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.swaen.nl/
 * https://www.seasons-oisterwijk.nl/
 
+## Oss
+* https://bontenoss.be/
+
 ## Panningen
 * http://www.trattoria-valentino.nl/
 
@@ -209,6 +212,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.cantina-mex.be/
 * https://www.descheppe.be/
 * https://khao.be/
+* https://mi-media-naranja.be/
 
 ## Neerpelt
 * https://www.ristorantelabaita.be/
