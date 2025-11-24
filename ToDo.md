@@ -168,7 +168,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.saporsmaakpaviljoen.nl/
 
 ## Veldhoven
-* https://www.brandveldhoven.nl/
 * https://www.burgemister.nl/
 * https://www.cafesainttropez.nl/
 * https://www.dejavu-veldhoven.nl/
