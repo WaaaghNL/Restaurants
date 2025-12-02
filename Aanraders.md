@@ -9,7 +9,6 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 
 ## Eindhoven
 * https://www.doyy.nl/
-* https://www.k-town.nl/
 * https://hotandhot.eu/
 * https://www.veera.nl/
 * https://www.fifthnre.com/restaurant/
@@ -23,6 +22,9 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 
 ## Oisterwijk
 * https://mai-thai.nl/
+
+## Roermond
+* https://www.libabite.nl/
 
 ## Veldhoven
 * https://www.brandveldhoven.nl/
