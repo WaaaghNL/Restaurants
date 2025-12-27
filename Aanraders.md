@@ -12,6 +12,7 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 * https://hotandhot.eu/
 * https://www.veera.nl/
 * https://www.fifthnre.com/restaurant/
+* https://saffraanrestaurant.nl/
 
 ## Nuenen
 * https://www.bravoy.nl/
