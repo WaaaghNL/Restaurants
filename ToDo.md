@@ -16,6 +16,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 ## Breda
 * https://www.thestreetfoodclub.nl/
 * https://www.wereldrestaurantbreepark.nl/
+* https://www.restaurantconfuego.com/
 
 ## Boxtel
 * https://www.kin-khao.nl/
