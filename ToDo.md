@@ -56,6 +56,8 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://asmara-eindhoven.nl/
 * https://www.elpastoreindhoven.nl/
 * https://www.gezana-eindhoven.com/
+* https://www.meiwaheindhoven.nl/
+* https://dholandsoul.com/
 * https://www.hungying.nl/
 * https://www.ketelhuis.com/
 * https://www.kingthai.nl/
