@@ -37,7 +37,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * http://www.patioandaluz.nl/
 * https://www.thaibyjune.nl/
 * https://www.bistrosophie.nl/
-* https://www.gusto-040.nl/
 * https://www.bocagrande.nl/
 * https://www.casapepe.nl/
 * https://umami-restaurant.com/eindhoven/
