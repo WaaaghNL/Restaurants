@@ -53,7 +53,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.pippens.nl/
 * https://elpuente.nl/
 * https://asmara-eindhoven.nl/
-* https://www.elpastoreindhoven.nl/
 * https://www.gezana-eindhoven.com/
 * https://www.meiwaheindhoven.nl/
 * https://dholandsoul.com/
@@ -70,10 +69,8 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.rozenknopje.nl/
 * https://www.samurai-ramen.nl/
 * https://www.sojubar.com/eindhoven/menu/
-* https://www.sopranos-eindhoven.nl/
 * https://www.sriganesheindhoven.nl/
 * https://www.stadspaviljoen.nl
-* https://www.takumiramennoodles.com/nl/eindhoven-kerkstraat/
 * https://www.tapasvoorthuis.nl/
 * https://www.thym.nl/
 * https://www.vane-eindhoven.nl/
@@ -93,9 +90,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Heeswijk Dinter
 * https://restaurantpit.nl/
-
-## Huizen (Noord Holland)
-* https://www.restaurantlamaison.nl/
 
 ## Meijel
 * https://restaurantnakal.nl/
