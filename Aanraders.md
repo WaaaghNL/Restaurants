@@ -28,6 +28,9 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 ## Roermond
 * https://www.libabite.nl/
 
+## Someren
+* https://www.valentino-someren.nl/
+
 ## Veldhoven
 * https://www.brandveldhoven.nl/
 
@@ -37,3 +40,6 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 # Belgie
 ## Arendonk
 * https://www.steppegras.com/
+
+## Neeroeteren
+* https://oudoteren.be/
