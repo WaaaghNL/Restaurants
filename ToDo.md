@@ -34,6 +34,7 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.restaurantclouds.nl/
 
 ## Eindhoven
+* https://www.restaurantsurabaya.nl/
 * http://www.patioandaluz.nl/
 * https://www.thaibyjune.nl/
 * https://www.bistrosophie.nl/
@@ -58,7 +59,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://dholandsoul.com/
 * https://www.hungying.nl/
 * https://www.ketelhuis.com/
-* https://www.kingthai.nl/
 * https://www.loods61.nl/
 * https://www.natlab.nl/nl/pQwp1iQ/eten-drinken/eten---drinken
 * https://www.nicosmexicanfood.nl/
@@ -119,9 +119,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 
 ## Roermond
 * https://www.laboca-roermond.nl/
-
-## Rotterdam
-* https://blacksmoke.nl/
 
 ## Tilburg
 * https://www.jasminethaitilburg.nl/

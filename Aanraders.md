@@ -14,6 +14,7 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 * https://www.fifthnre.com/restaurant/
 * https://saffraanrestaurant.nl/
 * https://www.takumiramennoodles.com/nl/
+* https://www.kingthai.nl/
 
 ## Nuenen
 * https://www.bravoy.nl/
