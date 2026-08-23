@@ -19,7 +19,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.restaurantconfuego.com/
 
 ## Boxtel
-* https://www.kin-khao.nl/
 
 ## Den Bosch
 * https://www.ffswanjee.nl/
