@@ -34,6 +34,7 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 
 ## Veldhoven
 * https://www.brandveldhoven.nl/
+* https://www.dejavu-veldhoven.nl/
 
 # Meerdere vestigingen
 * https://www.silkroad.nl/
