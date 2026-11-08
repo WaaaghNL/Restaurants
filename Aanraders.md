@@ -4,9 +4,6 @@ Een lijstje aanraders die induk hebben achter gelaten bij de smullertjes. Kan je
 ## Baarlo
 * https://centraalbaarlo.nl/
 
-## Den Bosch
-* https://www.barkade.nl/
-
 ## Eindhoven
 * https://www.doyy.nl/
 * https://hotandhot.eu/
