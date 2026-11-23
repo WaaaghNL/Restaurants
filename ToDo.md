@@ -100,7 +100,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://www.goestingnuenen.nl
 * https://www.bravoy.nl/
 * https://www.comigo.nl/
-* https://degriekinnuenen.nl
 
 ## Oirschot
 * https://www.sntzl.nl/de-zwaan/
@@ -161,7 +160,6 @@ Een lijstje aanraders van derden die samen een todo lijst maken. Kan je niet kie
 * https://bijdeneut.nl/
 
 # Meerdere vestigingen
-* https://www.sarban.nl/
 * https://www.silkroad.nl/
 * https://www.sntzl.nl/
 * https://www.trestapasbar.nl/
